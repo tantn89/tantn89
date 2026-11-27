@@ -2,7 +2,7 @@
 
 **Lead Data Engineer, 8+ years. I take AI from prototype to production on top of data platforms that hold up.**
 
-I have built data platforms for retail, healthcare and e-commerce: batch and streaming
+I have built data platforms for retail, healthcare, e-commerce and renewable energy: batch and streaming
 pipelines (Spark, Kafka, Airflow, dbt), lakehouses on Databricks and Snowflake, and the
 governance and data quality that keep them trustworthy. Lately I build the AI layer on top:
 knowledge graphs that ground RAG applications, LLM extraction pipelines with schema-validated
